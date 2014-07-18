@@ -3873,6 +3873,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   line-height: 18px;
   height: 40px;
 }
+.navbar-menu {
+  float: center;
+  padding: 11px 15px;
+  vertical-align: middle
+  line-height: 18px;
+  height: 40px;
+
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;
